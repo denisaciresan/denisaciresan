@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @denisaciresan
+- 👀 I’m interested in data analytics and programming
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ciresan.denisa14@gmail.com
